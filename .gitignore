@@ -1,0 +1,7 @@
+.env
+__pycache__/
+*.pyc
+data/*.jsonl
+data/*.log
+jev/results_*.jsonl
+jev/dataset.jsonl
